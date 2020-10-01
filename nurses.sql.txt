@@ -1,0 +1,9 @@
+INSERT INTO `ncd`.`nurse_list` (`nurse_name`, `nurse_status`, `clinic_id`) VALUES ('Ghada Ismail', 'Active', '361');
+INSERT INTO `ncd`.`nurse_list` (`nurse_name`, `nurse_status`, `clinic_id`) VALUES ('Mohamad Mazloum', 'Active', '361');
+INSERT INTO `ncd`.`nurse_list` (`nurse_name`, `nurse_status`, `clinic_id`) VALUES ('Zeinab Ismail', 'Active', '361');
+INSERT INTO `ncd`.`nurse_list` (`nurse_name`, `nurse_status`, `clinic_id`) VALUES ('Diaa Al Hassan', 'Active', '361');
+INSERT INTO `ncd`.`nurse_list` (`nurse_name`, `nurse_status`, `clinic_id`) VALUES ('Hussein Mazloum', 'Active', '361');
+INSERT INTO `ncd`.`nurse_list` (`nurse_name`, `nurse_status`, `clinic_id`) VALUES ('Mariam Wehbe ', 'Active', '361');
+INSERT INTO `ncd`.`nurse_list` (`nurse_name`, `nurse_status`, `clinic_id`) VALUES ('Christine Melhem', 'Active', '361');
+INSERT INTO `ncd`.`nurse_list` (`nurse_name`, `nurse_status`, `clinic_id`) VALUES ('Bilal Abbas', 'Active', '361');
+INSERT INTO `ncd`.`nurse_list` (`nurse_name`, `nurse_status`, `clinic_id`) VALUES ('Amad Sous', 'Active', '361');

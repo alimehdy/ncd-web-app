@@ -1,0 +1,9 @@
+INSERT INTO `ncd`.`doctor_list` (`doctor_name`, `doctor_status`, `clinic_id`) VALUES ('Nasry Tofaily', 'Active', '361');
+INSERT INTO `ncd`.`doctor_list` (`doctor_name`, `doctor_status`, `clinic_id`) VALUES ('Ali Nasser Eldin', 'Active', '361');
+INSERT INTO `ncd`.`doctor_list` (`doctor_name`, `doctor_status`, `clinic_id`) VALUES ('Samer Chaib', 'Active', '361');
+INSERT INTO `ncd`.`doctor_list` (`doctor_name`, `doctor_status`, `clinic_id`) VALUES ('Ali Chouman', 'Active', '361');
+INSERT INTO `ncd`.`doctor_list` (`doctor_name`, `doctor_status`, `clinic_id`) VALUES ('Fadi Abdallah', 'Active', '361');
+INSERT INTO `ncd`.`doctor_list` (`doctor_name`, `doctor_status`, `clinic_id`) VALUES ('Fadel Mortada', 'Active', '361');
+INSERT INTO `ncd`.`doctor_list` (`doctor_name`, `doctor_status`, `clinic_id`) VALUES ('Haitham Tabikh', 'Active', '361');
+INSERT INTO `ncd`.`doctor_list` (`doctor_name`, `doctor_status`, `clinic_id`) VALUES ('Abbas Saif Edine', 'Active', '361');
+INSERT INTO `ncd`.`doctor_list` (`doctor_name`, `doctor_status`, `clinic_id`) VALUES ('Abbas Nasser', 'Active', '361');INSERT INTO `ncd`.`doctor_list` (`doctor_name`, `doctor_status`, `clinic_id`) VALUES ('Nelly  Komolove', 'Active', '361');INSERT INTO `ncd`.`doctor_list` (`doctor_name`, `doctor_status`, `clinic_id`) VALUES ('Abbas Chahin', 'Active', '361');

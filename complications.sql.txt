@@ -1,0 +1,15 @@
+INSERT INTO `ncd`.`complication` (`complication_name`) VALUES ('Arrhythmia');
+INSERT INTO `ncd`.`complication` (`complication_name`) VALUES ('Heart Failure');
+INSERT INTO `ncd`.`complication` (`complication_name`) VALUES ('High Blood Pressure');
+INSERT INTO `ncd`.`complication` (`complication_name`) VALUES ('Angina');
+INSERT INTO `ncd`.`complication` (`complication_name`) VALUES ('Heart Attack');
+INSERT INTO `ncd`.`complication` (`complication_name`) VALUES ('Stroke');
+INSERT INTO `ncd`.`complication` (`complication_name`) VALUES ('PVD');
+INSERT INTO `ncd`.`complication` (`complication_name`) VALUES ('CRF');
+INSERT INTO `ncd`.`complication` (`complication_name`) VALUES ('Hypoglycaemia');
+INSERT INTO `ncd`.`complication` (`complication_name`) VALUES ('Hyperglycaemia');
+INSERT INTO `ncd`.`complication` (`complication_name`) VALUES ('DKA');
+INSERT INTO `ncd`.`complication` (`complication_name`) VALUES ('Retinopathy');
+INSERT INTO `ncd`.`complication` (`complication_name`) VALUES ('Neuropathy');
+INSERT INTO `ncd`.`complication` (`complication_name`) VALUES ('Asthma Exacerbation');
+INSERT INTO `ncd`.`complication` (`complication_name`) VALUES ('COPD Exacerbation');
